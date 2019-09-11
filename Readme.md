@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Егор Байдашев](https://up.htmlacademy.ru/javascript/18/user/684117).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Железцов].
 
 ---
 
